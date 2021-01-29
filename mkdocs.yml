@@ -1,7 +1,7 @@
 # Project information
-site_name: Your Project
-site_url: https://[YOUR_GITHUB_ID].github.io/[your-repository-name]
-site_author: Thomas Südbröcker
+site_name: Michael's projects
+#site_url: https://[YOUR_GITHUB_ID].github.io/[your-repository-name]
+site_author: Michael Schapira
 
 # Repository
 repo_name: techdocs
